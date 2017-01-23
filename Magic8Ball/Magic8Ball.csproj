@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IDeliverable.cs" />
+    <Compile Include="Mean8Ball.cs" />
+    <Compile Include="Neutral8Ball.cs" />
+    <Compile Include="Nice8Ball.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
